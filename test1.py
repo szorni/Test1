@@ -9,6 +9,8 @@ def test():
 
 
 p = test() #testowy komentarz 2
+
+
 print(p+1)
 
 print("ssssrewlalalala")
