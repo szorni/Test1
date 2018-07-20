@@ -8,8 +8,8 @@ def test():
     return 1
 
 
-p = test()
-print(p)
+p = test() #testowy komentarz 2
+print(p+1)
 
 print("ssssrewlalalala")
 
