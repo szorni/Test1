@@ -11,7 +11,7 @@ def test():
 t = test()
 print(t)
 
-print("lalalala")
+print("ssssrewlalalala")
 
 
 test()
