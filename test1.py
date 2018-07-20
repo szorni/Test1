@@ -11,5 +11,7 @@ def test():
 t = test()
 print(t)
 
+print("lalalala")
+
 
 test()
