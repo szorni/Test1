@@ -8,8 +8,8 @@ def test():
     return 1
 
 
-t = test()
-print(t)
+p = test()
+print(p)
 
 print("ssssrewlalalala")
 
