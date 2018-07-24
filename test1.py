@@ -10,8 +10,10 @@ def test():
 
 p = test() #testowy komentarz 2
 
+l_list = 1234 + 22
 
-print(p+1)
+
+print(p+1+2)
 
 print("ssssrewlalalala")
 
